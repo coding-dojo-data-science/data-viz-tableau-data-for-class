@@ -1,0 +1,7 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,G3,subject
+GP,F,20,R,GT3,T,2,1,other,other,course,other,2,2,0,no,yes,yes,yes,yes,no,yes,yes,1,2,3,1,2,2,8,10,12,12,por
+GP,M,20,U,GT3,A,3,2,services,other,course,other,1,1,2,no,no,no,yes,yes,yes,no,no,5,5,3,1,1,5,0,14,15,15,por
+GP,F,20,R,GT3,T,1,1,other,other,reputation,other,2,3,0,no,no,no,no,yes,yes,yes,yes,3,2,2,1,3,3,8,11,15,15,por
+GP,F,20,U,GT3,T,1,0,other,other,reputation,mother,2,1,1,yes,no,no,no,yes,yes,yes,yes,5,3,1,1,1,5,5,8,10,10,por
+MS,F,20,U,GT3,T,3,3,at_home,services,other,mother,2,2,1,no,no,no,yes,yes,yes,yes,yes,3,3,4,2,4,3,8,11,9,10,por
+MS,M,20,R,GT3,T,1,1,other,other,course,other,2,1,1,no,yes,no,no,yes,no,yes,yes,4,4,3,2,4,4,12,8,11,10,por
